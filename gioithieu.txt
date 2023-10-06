@@ -1,1 +1,2 @@
-this repo created for git learning purpose onlyfile gioi thieu tu acc L
+this repo created for git learning purpose only
+file gioi thieu tu acc L
